@@ -1,0 +1,45 @@
+/* * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: black;
+  height: auto;
+}
+
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.btn-1{
+    width: 70px;
+    height: auto;
+    border-radius: 5px;
+    background-color: aqua;
+    color: white;
+    font-weight: 500;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.btn-2{
+    width: 70px;
+    height: auto;
+    border-radius: 5px;
+    background-color: rgb(233, 21, 21);
+    color: white;
+    font-weight: 500;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+} */
+
+img{
+    width: 40%;
+    height: 100%;
+}
